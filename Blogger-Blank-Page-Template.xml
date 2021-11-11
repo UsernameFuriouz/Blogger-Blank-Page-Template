@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+  <head>
+     <title>タイトル</title>
+<b:skin><![CDATA[/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Blogger Blank Page Template
+Designer: F(uriouz)
+URL:      https://furiouzps.blogspot.com/
+----------------------------------------------- */
+]]></b:skin> 
+  </head>
+  <body>
+<b:section class='hello' id='hello'/>
+     <p>こんにちは、世界</p>
+  </body>
+</html>
