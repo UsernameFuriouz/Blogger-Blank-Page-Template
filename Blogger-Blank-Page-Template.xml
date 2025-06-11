@@ -1,18 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<html xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<html b:css='false' b:js='false' expr:dir='data:blog.languageDirection' expr:lang='data:blog.locale' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
   <head>
-     <title>タイトル</title>
+    <meta content='width=device-width, initial-scale=1' name='viewport'/>
+     <title><data:blog.title/></title>
 <b:skin><![CDATA[/*
 -----------------------------------------------
 Blogger Template Style
 Name:     Blogger Blank Page Template
 Designer: F(uriouz)
-URL:      https://furiouzps.blogspot.com/
+URL:      furiouzps.blogspot.com
 ----------------------------------------------- */
-]]></b:skin> 
+/* Write your CSS here */
+
+]]></b:skin>
+<style>
+<!-- other Internal CSS here -->
+
+</style>
   </head>
   <body>
-<b:section class='hello' id='hello'/>
-     <p>こんにちは、世界</p>
+<!-- id attribute is necessary -->
+<b:section class='Hello' id='Happy'/>
+     <p>Hello, Happy World!</p>
   </body>
 </html>
