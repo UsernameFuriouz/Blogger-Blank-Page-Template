@@ -15,12 +15,16 @@ URL:      furiouzps.blogspot.com
 ]]></b:skin>
 <style>
 <!-- other Internal CSS here -->
-
 </style>
   </head>
   <body>
 <!-- id attribute is necessary -->
 <b:section class='Hello' id='Happy'/>
      <p>Hello, Happy World!</p>
+<script>
+//<![CDATA[
+<!-- JavaScript here -->
+//]]>
+</script>
   </body>
 </html>
